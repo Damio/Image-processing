@@ -24,7 +24,7 @@ z = 1
 
 #img = cv2.imread("C:\\Users\\Dell\\Desktop\\lab3\\images\\12.jpeg")
 #img2 = cv2.imread("C:\\Users\\Dell\\Desktop\\lab3\\images\\90.PNG")
-img = cv2.imread("C:\\Users\\Dell\\Desktop\\lab3\\lab_4\\5.jpeg")
+img = cv2.imread("path/to/image")
 cv2.imshow('ss', img)
 while (True):
     # Capture frame-by-frame
